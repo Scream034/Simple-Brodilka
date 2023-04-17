@@ -1,3 +1,6 @@
+
+// License by paralax (6/04/2023)
+
 using Godot;
 
 public partial class GlobalFunctions : Node
